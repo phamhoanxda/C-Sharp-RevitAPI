@@ -1,0 +1,7 @@
+﻿1) Start : IExternalApplication
+2) Add file .addin and modify.
+2) Add post-event
+
+
+//Post event
+copy "$(TargetDir)"."" "$(AppData)\Autodesk\Revit\Addins\2020

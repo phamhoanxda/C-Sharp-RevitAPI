@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Lesson12\Lesson12\Lesson12\bin\Debug\Lesson12.dll
+C:\Users\admin\Desktop\Lesson12\Lesson12\Lesson12\bin\Debug\Lesson12.pdb
+C:\Users\admin\Desktop\Lesson12\Lesson12\Lesson12\obj\Debug\Lesson12.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Lesson12\Lesson12\Lesson12\obj\Debug\Lesson12.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lesson12\Lesson12\Lesson12\obj\Debug\Lesson12.dll
+C:\Users\admin\Desktop\Lesson12\Lesson12\Lesson12\obj\Debug\Lesson12.pdb

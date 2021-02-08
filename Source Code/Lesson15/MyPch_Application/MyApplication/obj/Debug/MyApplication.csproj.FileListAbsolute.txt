@@ -1,0 +1,18 @@
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\bin\Debug\MyApplication.dll
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\bin\Debug\MyApplication.pdb
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\obj\Debug\MyApplication.csprojAssemblyReference.cache
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\obj\Debug\MyApplication.dll
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\obj\Debug\MyApplication.pdb
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\obj\Debug\Pch.SheetManagement.resources
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.GenerateResource.cache
+C:\Users\C_DES018\Desktop\210126_\MyApplication\MyApplication\bin\Debug\Lesson15\MyApplication.addin
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\obj\Debug\Pch.SheetManagement.resources
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\obj\Debug\MyApplication.dll
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\obj\Debug\MyApplication.pdb
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\bin\Debug\MyApplication.dll
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\bin\Debug\MyApplication.pdb
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\bin\Debug\MyApplication.addin
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\obj\Debug\Pch.AutoSwitchJoin_UI.resources
+C:\Users\admin\Desktop\Revit API Basic Class\MyApplication\MyApplication\obj\Debug\MyApplication.csprojAssemblyReference.cache

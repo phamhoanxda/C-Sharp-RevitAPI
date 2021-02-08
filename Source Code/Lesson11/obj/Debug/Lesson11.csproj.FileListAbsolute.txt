@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Revit API\Revit API Basic\Lesson11\bin\Debug\Lesson11.dll
+C:\Users\admin\Desktop\Revit API\Revit API Basic\Lesson11\bin\Debug\Lesson11.pdb
+C:\Users\admin\Desktop\Revit API\Revit API Basic\Lesson11\obj\Debug\Lesson11.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Revit API\Revit API Basic\Lesson11\obj\Debug\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Revit API\Revit API Basic\Lesson11\obj\Debug\Lesson11.dll
+C:\Users\admin\Desktop\Revit API\Revit API Basic\Lesson11\obj\Debug\Lesson11.pdb

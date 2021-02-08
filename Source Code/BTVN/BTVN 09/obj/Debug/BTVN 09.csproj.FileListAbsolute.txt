@@ -1,0 +1,6 @@
+G:\My Drive\C Sharp and Revit API Basic\Pham Hoan\Source\Visual Studio Source Code\BTVN 09\bin\Debug\BTVN 09.exe.config
+G:\My Drive\C Sharp and Revit API Basic\Pham Hoan\Source\Visual Studio Source Code\BTVN 09\bin\Debug\BTVN 09.exe
+G:\My Drive\C Sharp and Revit API Basic\Pham Hoan\Source\Visual Studio Source Code\BTVN 09\bin\Debug\BTVN 09.pdb
+G:\My Drive\C Sharp and Revit API Basic\Pham Hoan\Source\Visual Studio Source Code\BTVN 09\obj\Debug\BTVN 09.csproj.CoreCompileInputs.cache
+G:\My Drive\C Sharp and Revit API Basic\Pham Hoan\Source\Visual Studio Source Code\BTVN 09\obj\Debug\BTVN 09.exe
+G:\My Drive\C Sharp and Revit API Basic\Pham Hoan\Source\Visual Studio Source Code\BTVN 09\obj\Debug\BTVN 09.pdb

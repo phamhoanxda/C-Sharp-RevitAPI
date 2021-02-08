@@ -1,0 +1,5 @@
+C:\Users\C_DES018\Desktop\210127_\TestProTem\Lesson13\Lesson13\bin\Debug\Lesson13.dll
+C:\Users\C_DES018\Desktop\210127_\TestProTem\Lesson13\Lesson13\bin\Debug\Lesson13.pdb
+C:\Users\C_DES018\Desktop\210127_\TestProTem\Lesson13\Lesson13\obj\Debug\Lesson13.csprojAssemblyReference.cache
+C:\Users\C_DES018\Desktop\210127_\TestProTem\Lesson13\Lesson13\obj\Debug\Lesson13.dll
+C:\Users\C_DES018\Desktop\210127_\TestProTem\Lesson13\Lesson13\obj\Debug\Lesson13.pdb

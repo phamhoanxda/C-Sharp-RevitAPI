@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>MyApplication</Name>
+    <Assembly>MyApplication.dll</Assembly>
+    <AddInId>6AA408D2-98A8-43B9-9B5D-4F5D430EB85C</AddInId>
+    <FullClassName>Pch._15_01_RibbonTab</FullClassName>
+    <VendorId>https://bimcauduong.com</VendorId>
+    <VendorDescription>Add in designed by Pham Cong Hoan</VendorDescription>
+  </AddIn>
+</RevitAddIns>

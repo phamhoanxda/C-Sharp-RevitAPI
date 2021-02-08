@@ -1,0 +1,7 @@
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\01\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe.config
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\01\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.exe
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\01\FirstConsoleApp\FirstConsoleApp\bin\Debug\FirstConsoleApp.pdb
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\01\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\01\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\01\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.exe
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\01\FirstConsoleApp\FirstConsoleApp\obj\Debug\FirstConsoleApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\Pham Hoan\Source\Visual Studio Source Code\Lesson02\bin\Debug\Lesson02.exe.config
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\Pham Hoan\Source\Visual Studio Source Code\Lesson02\bin\Debug\Lesson02.exe
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\Pham Hoan\Source\Visual Studio Source Code\Lesson02\bin\Debug\Lesson02.pdb
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\Pham Hoan\Source\Visual Studio Source Code\Lesson02\obj\Debug\Lesson02.csprojAssemblyReference.cache
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\Pham Hoan\Source\Visual Studio Source Code\Lesson02\obj\Debug\Lesson02.csproj.CoreCompileInputs.cache
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\Pham Hoan\Source\Visual Studio Source Code\Lesson02\obj\Debug\Lesson02.exe
+C:\Users\phamh\Desktop\C Sharp and Revit API Basic Class\Pham Hoan\Source\Visual Studio Source Code\Lesson02\obj\Debug\Lesson02.pdb
