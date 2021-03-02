@@ -2,7 +2,7 @@
 
 Sản phẩm sau khóa học:
 - Biết ứng dụng C# vào Revit API
-- Viết được các add-n nhỏ phục vụ Revit
+- Viết được các add-in nhỏ phục vụ Revit
 - Tạo được Ribbon cho Revit UI
 
 SẢN PHẨM SAU KHÓA HỌC DEMO.
